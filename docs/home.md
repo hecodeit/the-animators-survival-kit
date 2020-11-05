@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Home
-permalink: /
 ---
 
 # The Animator's Survival Kit
