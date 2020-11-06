@@ -1,6 +1,6 @@
 GIT
-  remote: git@github.com:hecodeit/just-the-docs.git
-  revision: 0f43fe3e5c4e76d42f1b56cad2c26102e7706ef9
+  remote: https://github.com/hecodeit/just-the-docs.git
+  revision: 46c9f721e14a8d924d4391a7c1ebc2e15d32858f
   specs:
     just-the-docs (0.3.3)
       jekyll (>= 3.8.5)
