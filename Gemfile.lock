@@ -1,3 +1,12 @@
+GIT
+  remote: git@github.com:hecodeit/just-the-docs.git
+  revision: 0f43fe3e5c4e76d42f1b56cad2c26102e7706ef9
+  specs:
+    just-the-docs (0.3.3)
+      jekyll (>= 3.8.5)
+      jekyll-seo-tag (~> 2.0)
+      rake (>= 12.3.1, < 13.1.0)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -37,10 +46,6 @@ GEM
       jekyll (>= 3.8, < 5.0)
     jekyll-watch (2.2.1)
       listen (~> 3.0)
-    just-the-docs (0.3.3)
-      jekyll (>= 3.8.5)
-      jekyll-seo-tag (~> 2.0)
-      rake (>= 12.3.1, < 13.1.0)
     kramdown (2.1.0)
     kramdown-parser-gfm (1.1.0)
       kramdown (~> 2.0)
@@ -70,7 +75,7 @@ PLATFORMS
 DEPENDENCIES
   jekyll (~> 4.1.1)
   jekyll-feed (~> 0.12)
-  just-the-docs
+  just-the-docs!
   tzinfo (~> 1.2)
   tzinfo-data
   wdm (~> 0.1.1)
