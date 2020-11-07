@@ -64,3 +64,7 @@ aux_links:
 # Note: The footer_content option is deprecated and will be removed in a future major release. Please use `_includes/footer_custom.html` for more robust
 # markup / liquid-based content.
 # footer_content: "Copyright &copy; 2020 Felix He."
+
+# Google Analytics Tracking (optional)
+# e.g, UA-1234567-89
+ga_tracking: G-8PK1BVGKFB
