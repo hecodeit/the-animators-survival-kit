@@ -12,6 +12,10 @@ parent: 01 Timing And Spacing
 <div id="bouncing_ball_squash_stretch" style="max-width:600px;"></div>
 <img src="../img/03_ball_squash_stretch.jpg" style="max-width:600px;"/>
 
+## Put Contact With Squash and Stretch
+<div id="bouncing_ball_squash_stretch_b" style="max-width:600px;"></div>
+<img src="../img/03_ball_squash_stretch_b.jpg" style="max-width:600px;"/>
+
 ## Soft Ball, Less Squash
 <div id="ball_soft_less_squash" style="max-width:600px;"></div>
 <img src="../img/03_ball_soft_less_squash.jpg" style="max-width:600px;"/>
@@ -67,6 +71,14 @@ if (n > 0){
   value
 ```
 
+## Bouncing Ball Rotate
+<div id="bouncing_ball_rotate" style="max-width:600px;"></div>
+<img src="../img/03_ball_rotate.jpg" style="max-width:600px;"/>
+
+## Bouncing Rod
+<div id="bouncing_rod" style="max-width:600px;"></div>
+<img src="../img/03_bouncing_rod.jpg" style="max-width:600px;"/>
+
 <script>
   var bouncing_ball = bodymovin.loadAnimation({
     container: document.getElementById('bouncing_ball'),
@@ -75,12 +87,33 @@ if (n > 0){
     autoplay: true,
     path: '../lottie/03_ball.json'
   });
+  var bouncing_ball_rotate = bodymovin.loadAnimation({
+    container: document.getElementById('bouncing_ball_rotate'),
+    renderer: 'svg',
+    loop: true,
+    autoplay: true,
+    path: '../lottie/03_ball_rotate.json'
+  });
+  var bouncing_rod = bodymovin.loadAnimation({
+    container: document.getElementById('bouncing_rod'),
+    renderer: 'svg',
+    loop: true,
+    autoplay: true,
+    path: '../lottie/03_bouncing_rod.json'
+  });
   var bouncing_ball_squash_stretch = bodymovin.loadAnimation({
     container: document.getElementById('bouncing_ball_squash_stretch'),
     renderer: 'svg',
     loop: true,
     autoplay: true,
     path: '../lottie/03_ball_squash_stretch.json'
+  });
+  var bouncing_ball_squash_stretch_b = bodymovin.loadAnimation({
+    container: document.getElementById('bouncing_ball_squash_stretch_b'),
+    renderer: 'svg',
+    loop: true,
+    autoplay: true,
+    path: '../lottie/03_ball_squash_stretch_b.json'
   });
   var ball_soft_less_squash = bodymovin.loadAnimation({
     container: document.getElementById('ball_soft_less_squash'),
