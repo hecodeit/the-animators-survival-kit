@@ -6,28 +6,28 @@ parent: 01 Timing And Spacing
 
 ## Bouncing Ball
 <div id="bouncing_ball" style="max-width:600px;"></div>
-<img src="../img/03_ball.jpg" style="max-width:600px;"/>
+<img src="../img/03_ball.jpg" style="width:100%;max-width:600px;"/>
 
 ## With Squash and Stretch
 <div id="bouncing_ball_squash_stretch" style="max-width:600px;"></div>
-<img src="../img/03_ball_squash_stretch.jpg" style="max-width:600px;"/>
+<img src="../img/03_ball_squash_stretch.jpg" style="width:100%;max-width:600px;"/>
 
 ## Put Contact With Squash and Stretch
 <div id="bouncing_ball_squash_stretch_b" style="max-width:600px;"></div>
-<img src="../img/03_ball_squash_stretch_b.jpg" style="max-width:600px;"/>
+<img src="../img/03_ball_squash_stretch_b.jpg" style="width:100%;max-width:600px;"/>
 
 ## Soft Ball, Less Squash
 <div id="ball_soft_less_squash" style="max-width:600px;"></div>
-<img src="../img/03_ball_soft_less_squash.jpg" style="max-width:600px;"/>
+<img src="../img/03_ball_soft_less_squash.jpg" style="width:100%;max-width:600px;"/>
 
 
 ## Heavy Bowling Ball
 <div id="ball_heavy_bowling" style="max-width:600px;"></div>
-<img src="../img/03_ball_heavy_bowling.jpg" style="max-width:600px;"/>
+<img src="../img/03_ball_heavy_bowling.jpg" style="width:100%;max-width:600px;"/>
 
 ## Bouncing Bubble
 <div id="bubble" style="max-width:600px;"></div>
-<img src="../img/03_bubble.jpg" style="max-width:600px;"/>
+<img src="../img/03_bubble.jpg" style="width:100%;max-width:600px;"/>
 
 ## Bouncing Expression
 <div id="expression" style="max-width:600px;"></div>
@@ -73,11 +73,11 @@ if (n > 0){
 
 ## Bouncing Ball Rotate
 <div id="bouncing_ball_rotate" style="max-width:600px;"></div>
-<img src="../img/03_ball_rotate.jpg" style="max-width:600px;"/>
+<img src="../img/03_ball_rotate.jpg" style="width:100%;max-width:600px;"/>
 
 ## Bouncing Rod
 <div id="bouncing_rod" style="max-width:600px;"></div>
-<img src="../img/03_bouncing_rod.jpg" style="max-width:600px;"/>
+<img src="../img/03_bouncing_rod.jpg" style="width:100%;max-width:600px;"/>
 
 <script>
   var bouncing_ball = bodymovin.loadAnimation({

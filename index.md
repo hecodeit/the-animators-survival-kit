@@ -39,4 +39,4 @@ As well knows that even not trained person, can easily find the huge different b
 
 > **-- Richard Williams**
 
-<img src="img/03_ball.jpg" style="max-width:600px;"/>
+<img src="img/03_ball.jpg" style="width:100%;max-width:600px;"/>
