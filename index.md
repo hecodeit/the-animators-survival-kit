@@ -7,7 +7,7 @@ permalink: /
 ---
 
 # The Animator's Survival Kit
-A study log of The Animator's Survival Kit, a book by Richard Williams.
+A study log of [The Animator's Survival Kit](https://en.wikipedia.org/wiki/The_Animator's_Survival_Kit), a book by Richard Williams.
 
 ## Motivation
 The first animations I have made which use SoftWear Adobe Flash, many many years ago. I'm draw on stage, play with timeline, write script control the spirit which interact with mouse and keyboard. It's the very first step I'm beginning work with graphic design, animation and programming. Later I become graphic designer and programmer, working on graphic design, creative coding, web/app design and development area.

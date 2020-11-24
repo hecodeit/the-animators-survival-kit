@@ -12,7 +12,7 @@ has_children: true
 
 Richard describe a very simple way to making animation: put your subject on stage, try with different timing and spacing, and test it.
 
-**See, it's moving!** But boring.
+**Look, it's moving!** But boring.
 <div id="coin_a" style="max-width:600px;"></div>
 
 Same timing but difference spacing. Better with slow in and out.
